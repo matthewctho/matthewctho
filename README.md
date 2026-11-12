@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Matthew Ho
 
-<!--
-**matthewctho/matthewctho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS and Computational Data Science student at the University of Sydney
+(graduating 2027), from Hong Kong. I build LLM-powered Python tools,
+mostly around retrieval, prompt design and evaluation.
 
-Here are some ideas to get you started:
+## What I'm working on
+- An LLM agent with a retrieval-based memory layer (university capstone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **CVision**: AI parking assistant, 2nd place at the n8n University
+  Hackathon. Next.js, TypeScript, Gemini API. 
+- **Plant stress detection**: CNN that classifies nutrient deficiencies
+  from leaf images. Python, TensorFlow. 
+- **Breast cancer histopathology**: comparing five CNN models on tissue
+  images. 
+
+## Tech
+Python, TypeScript, Java, SQL, R | Git, Jupyter, REST APIs |
+LLMs, RAG, TensorFlow, Keras
+
+## Contact
+www.linkedin.com/in/matthew-ct-ho | matthewctho@gmail.com
