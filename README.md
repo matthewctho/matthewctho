@@ -4,9 +4,6 @@ CS and Computational Data Science student at the University of Sydney
 (graduating 2027), from Hong Kong. I build LLM-powered Python tools,
 mostly around retrieval, prompt design and evaluation.
 
-## What I'm working on
-- An LLM agent with a retrieval-based memory layer (university capstone)
-
 ## Projects
 - **CVision**: AI parking assistant, 2nd place at the n8n University
   Hackathon. Next.js, TypeScript, Gemini API. 
