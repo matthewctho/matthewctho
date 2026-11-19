@@ -5,6 +5,9 @@ CS and Computational Data Science student at the University of Sydney
 mostly around retrieval, prompt design and evaluation.
 
 ## Projects
+- **Touch Grass**: gamified Android app with real-world challenge packs,
+  Gemini photo verification and mutual-consent QR connections. Built at
+  SYNCS Hack 2026. Java, Firebase, Gemini API.
 - **CVision**: AI parking assistant, 2nd place at the n8n University
   Hackathon. Next.js, TypeScript, Gemini API. 
 - **Plant stress detection**: CNN that classifies nutrient deficiencies
